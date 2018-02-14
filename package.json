@@ -1,0 +1,24 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingjianjzhang/learning-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingjianjzhang/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/mingjianjzhang/learning-javascript#readme",
+  "dependencies": {
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
